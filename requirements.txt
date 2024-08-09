@@ -1,0 +1,10 @@
+graphrag
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-experimental
+neo4j
+yfiles-jupyter-graphs
+
